@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybr-vim-banner.png" height=200px/>
+<img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybr-vim-banner-top.png">
+
+> [!CAUTION]
+> Theme is currently in **early-dev stage**. Come back later.  
 
 # Showcase
 <img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/showcase/cybr-vim.png"/>
