@@ -17,4 +17,4 @@ fc-cache -fv
 - Make sure fish is installed: `sudo pacman -S fish` and [cybrcore theme](https://github.com/cybrcore/cybr-fish) is applied
 - Make sure vim is installed: `sudo pacman -S vim`
 - See [Installation Guide](https://github.com/cybrcore/cybrdots/blob/main/INSTALL.md) if you're coming from [cybr-hyprland](https://github.com/cybrcore/cybr-hyprland) and haven't set up prerequisites yet
-- [app Github repo](https://github.com/---vim---)
+- [vim wiki](https://www.vim.org/docs.php)
